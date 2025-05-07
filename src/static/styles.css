@@ -72,6 +72,7 @@ section h3 {
 
 .activity-card p {
   margin-bottom: 8px;
+  line-height: 1.4;
 }
 
 .activity-card p strong {
@@ -138,6 +139,18 @@ button:hover {
 
 .hidden {
   display: none;
+}
+
+.participants-list {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: disc;
+  color: #333;
+}
+
+.participants-list li {
+  margin-bottom: 5px;
+  font-size: 14px;
 }
 
 footer {
